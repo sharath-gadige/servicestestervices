@@ -18,7 +18,7 @@ public class Constants {
 	public static final String GENERIC_ERROR_RESPONSE_STR = "Error! while performing the requested operation";
 	public static final String DATASQUARE_NAME_EXISTS_RESPONSE_STR = "Datasquare Name already exists";
 	public static final String SWAGGER_API_SPEC_VERSION="";
-	public static final String SWAGGER_API_HTTP="http";
+	public static final String SWAGGER_API_HTTP="https";
 	public static final String SWAGGER_API_PACKAGE="com.bighalf.service.datasquare.controller";
 	public static final String DATASQUARE_TYPE="dataSquare_Type";
 	public static final String JIRA_DATASQUARE_TYPE="jira";
